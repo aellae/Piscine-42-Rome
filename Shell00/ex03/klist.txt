@@ -1,0 +1,5 @@
+Credentials cache: API:B469E77B-F865-4977-B8F9-BF809A373C17
+        Principal: etaranti@42ROMA.IT
+
+  Issued                Expires               Principal
+Oct 20 20:22:33 2020  Oct 21 06:22:33 2020  krbtgt/42ROMA.IT@42ROMA.IT
